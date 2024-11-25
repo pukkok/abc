@@ -1,7 +1,7 @@
 {
   "name": "project1125",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./src/app.js",
   "author": "pukkok <krystalgggg@gmail.com>",
   "license": "MIT"
 }
